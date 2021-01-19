@@ -1,6 +1,6 @@
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the Taks_list and create a pull request
+*** that would make this better, please fork the Task_list and create a pull request
 *** or simply open an issue with the tag "enhancement".
 *** Thanks again! Now go create something AMAZING! :D
 ***
@@ -183,15 +183,15 @@ Project Link: [https://github.com/ReubenHawley/Task_list](https://github.com/Reu
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/ReubenHawley/Taks_list.svg?style=for-the-badge
-[contributors-url]: https://github.com/ReubenHawley/Taks_list/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ReubenHawley/Taks_list.svg?style=for-the-badge
-[forks-url]: https://github.com/ReubenHawley/Taks_list/network/members
-[stars-shield]: https://img.shields.io/github/stars/ReubenHawley/Taks_list.svg?style=for-the-badge
-[stars-url]: https://github.com/ReubenHawley/Taks_list/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ReubenHawley/Taks_list.svg?style=for-the-badge
-[issues-url]: https://github.com/ReubenHawley/Taks_list/issues
-[license-shield]: https://img.shields.io/github/license/ReubenHawley/Taks_list.svg?style=for-the-badge
-[license-url]: https://github.com/ReubenHawley/Taks_list/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/ReubenHawley/Task_list.svg?style=for-the-badge
+[contributors-url]: https://github.com/ReubenHawley/Task_list/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ReubenHawley/Task_list.svg?style=for-the-badge
+[forks-url]: https://github.com/ReubenHawley/Task_list/network/members
+[stars-shield]: https://img.shields.io/github/stars/ReubenHawley/Task_list.svg?style=for-the-badge
+[stars-url]: https://github.com/ReubenHawley/Task_list/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ReubenHawley/Task_list.svg?style=for-the-badge
+[issues-url]: https://github.com/ReubenHawley/Task_list/issues
+[license-shield]: https://img.shields.io/github/license/ReubenHawley/Task_list.svg?style=for-the-badge
+[license-url]: https://github.com/ReubenHawley/Task_list/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/ReubenHawley
